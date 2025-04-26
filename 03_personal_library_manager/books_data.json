@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Burari case",
+        "author": " Bhatias",
+        "year": "2018",
+        "genre": "Crime",
+        "read": true
+    },
+    {
+        "title": "web developer journey",
+        "author": "sufyan",
+        "year": "2025",
+        "genre": "education",
+        "read": true
+    }
+]
