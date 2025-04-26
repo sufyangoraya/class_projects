@@ -32,7 +32,7 @@ def decrypt_data(encrypted_text, passkey):
     return None
 
 # Streamlit UI
-st.title("🔒 Secure Data Encryption System")
+st.title("🔒 Secure Data Encryption System by sufyan")
 
 # Navigation
 menu = ["Home", "Store Data", "Retrieve Data", "Login"]
